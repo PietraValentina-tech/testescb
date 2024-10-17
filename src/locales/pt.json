@@ -1,0 +1,72 @@
+{
+  "header": {
+    "home": "Início",
+    "about": "Sobre",
+    "contact": "Contato",
+    "articles": "Artigos",
+    "calculator": "Calculadora"
+  },
+  "home": {
+    "title": "Calculadora de Créditos de Carbono com IA",
+    "intro": "Bem-vindo à nossa inovadora Calculadora de Créditos de Carbono. Utilizando tecnologia avançada de IA, fornecemos previsões precisas para ajudar você a mitigar as emissões de carbono e contribuir para a sustentabilidade ambiental."
+  },
+  "about": {
+    "title": "Sobre Nossos Cálculos de Créditos de Carbono Aprimorados por IA",
+    "content": "Nosso sistema utiliza algoritmos de aprendizado de máquina de última geração para analisar seus dados de entrada e fornecer estimativas altamente precisas de créditos de carbono. Ao considerar vários fatores e dados históricos, podemos oferecer recomendações personalizadas para reduzir efetivamente sua pegada de carbono."
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "submit": "Enviar"
+    },
+    "team": {
+      "title": "Nossa Equipe",
+      "members": [
+        {
+          "name": "João Silva",
+          "role": "Desenvolvedor Líder",
+          "email": "joao@exemplo.com"
+        },
+        {
+          "name": "Maria Santos",
+          "role": "Especialista em IA",
+          "email": "maria@exemplo.com"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "title": "Artigos Recentes",
+    "readMore": "Leia Mais"
+  },
+  "calculator": {
+    "title": "Calculadora de Créditos de Carbono",
+    "form": {
+      "transportation": "Emissões de CO2 do Transporte (kg)",
+      "energy": "Emissões de CO2 do Consumo de Energia (kg)",
+      "industrial": "Emissões de CO2 de Processos Industriais (kg)",
+      "waste": "Emissões de CO2 da Gestão de Resíduos (kg)",
+      "renewableEnergy": "Fontes de Energia Renovável",
+      "vehicleType": "Tipo de Veículo",
+      "applianceEfficiency": "Eficiência dos Eletrodomésticos",
+      "fuelConsumption": "Consumo Médio Anual de Combustível (L)",
+      "electricityUsage": "Consumo Médio Mensal de Eletricidade (kWh)",
+      "recycling": "Você recicla?",
+      "composting": "Você faz compostagem?",
+      "calculate": "Calcular",
+      "generating": "Gerando previsão assistida por IA...",
+      "download": "Baixar Relatório PDF"
+    },
+    "results": {
+      "emissions": "Total de Emissões de CO2",
+      "credits": "Créditos de Carbono Sugeridos",
+      "feedback": "Feedback da IA"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}

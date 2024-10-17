@@ -1,0 +1,72 @@
+{
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "articles": "Articles",
+    "calculator": "Calculator"
+  },
+  "home": {
+    "title": "AI-Powered Carbon Credit Calculator",
+    "intro": "Welcome to our innovative Carbon Credit Calculator. Leveraging advanced AI technology, we provide accurate predictions to help you mitigate carbon emissions and contribute to environmental sustainability."
+  },
+  "about": {
+    "title": "About Our AI-Enhanced Carbon Credit Calculations",
+    "content": "Our system uses state-of-the-art machine learning algorithms to analyze your input data and provide highly accurate carbon credit estimations. By considering various factors and historical data, we can offer personalized recommendations to reduce your carbon footprint effectively."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "team": {
+      "title": "Our Team",
+      "members": [
+        {
+          "name": "John Doe",
+          "role": "Lead Developer",
+          "email": "john@example.com"
+        },
+        {
+          "name": "Jane Smith",
+          "role": "AI Specialist",
+          "email": "jane@example.com"
+        }
+      ]
+    }
+  },
+  "articles": {
+    "title": "Latest Articles",
+    "readMore": "Read More"
+  },
+  "calculator": {
+    "title": "Carbon Credit Calculator",
+    "form": {
+      "transportation": "Transportation CO2 Emissions (kg)",
+      "energy": "Energy Consumption CO2 Emissions (kg)",
+      "industrial": "Industrial Processes CO2 Emissions (kg)",
+      "waste": "Waste Management CO2 Emissions (kg)",
+      "renewableEnergy": "Renewable Energy Sources",
+      "vehicleType": "Type of Vehicle",
+      "applianceEfficiency": "Household Appliance Efficiency",
+      "fuelConsumption": "Average Yearly Fuel Consumption (L)",
+      "electricityUsage": "Average Monthly Electricity Usage (kWh)",
+      "recycling": "Do you recycle?",
+      "composting": "Do you compost?",
+      "calculate": "Calculate",
+      "generating": "Generating AI-assisted prediction...",
+      "download": "Download PDF Report"
+    },
+    "results": {
+      "emissions": "Total CO2 Emissions",
+      "credits": "Suggested Carbon Credits",
+      "feedback": "AI Feedback"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
